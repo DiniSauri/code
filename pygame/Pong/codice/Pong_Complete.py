@@ -58,7 +58,7 @@ while not perso:
         perso = True
     
     # collisione della palla con la barra 
-    if palla.colliderect(barra) or palla.collideredt(barra2):
+    if palla.colliderect(barra) or palla.colliderect(barra2):
         p_vely = - p_vely
         
     p_x += p_velx
