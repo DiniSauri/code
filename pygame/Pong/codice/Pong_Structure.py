@@ -14,8 +14,10 @@ p_b = 200 # blue
 p_velx = 3
 p_vely = 3
 # variabili per barra
-b_x = 300       # coordinata x della barra
-b_y = 450       # coordinata y della barra
+b_x = 300       # coordinata x della barra g1
+b_y = 450       # coordinata y della barra g1
+b2_x = 300       # coordinata x della barra g2
+b2_y = 50       # coordinata y della barra g2
 b_l = 80        # lunghezza della barra
 b_spessore = 20 # spessore della barra 
 
